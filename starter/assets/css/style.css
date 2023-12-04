@@ -1,13 +1,16 @@
+/* setting some general style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* setting background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* setting style for "header" class div element containing an h1 element with 3 list items*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* style for h1 element of "header" class div - it will change to inline-block and change font size*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* the span with "ceo" class from h1 element (from "header" class) gain new color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* style for all elements of div from class "header"  */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* remove disc signs characteristic for standard ul */
 .header div ul {
     list-style-type: none;
 }
 
+/* change dysplay tyoe for the list elements */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* style for links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* style for paragraph elements */
 p {
     font-size: 16px;
 }
 
+/* give style and an image as a background for div with "hero" class  ; this image become the widest of all elements with full width */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +70,26 @@ p {
     background-position: center;
 }
 
+/* position towards left with right margin  the img*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* position towards right with left margin the img*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* set the div width as 3/4 from main ; margin and display */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* style the "benefit" class div */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,11 +101,13 @@ p {
     background-color: #2589bd;
 }
 
+/* style the child div "benefit-lead"  */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* style the child div "benefit-brand"  */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
