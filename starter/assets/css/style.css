@@ -25,11 +25,11 @@ body {
 }
 
 /* the span with "ceo" class from h1 element (from "header" class) gain new color */
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
-/* style for all elements of div from class "header"  */
+/* style for all elements of div with class "header"  */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,12 +39,12 @@ body {
 }
 
 /* remove disc signs characteristic for standard ul */
-.header div ul {
+ul {
     list-style-type: none;
 }
 
 /* change dysplay tyoe for the list elements */
-.header div ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -113,44 +113,52 @@ p {
     color: #ffffff;
 }
 
+/* style the child div "benefit-cost"  */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* style the h3 of child div "benefit-lead"  */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* style the h3 of child div "benefit-brand"  */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* style the h3 of child div "benefit-cost"  */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* style the img of child div "benefit-lead"  */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* style the img of child div "benefit-brand"  */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* style the img of child div "benefit-cost"  */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* style the class "search_en..."  */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,6 +168,7 @@ p {
     color: #ffffff;
 }
 
+/* style the class "online_rep..."  */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -169,6 +178,7 @@ p {
     color: #ffffff;
 }
 
+/* style the class "social-medi....."  */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -178,33 +188,40 @@ p {
     color: #ffffff;
 }
 
+/* style the img from class "search_eng..."  */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* style the img from class "online_rep..."  */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* style the img from class "social-med..."  */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* style the h2 element from class "search_eng..."  */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* style the h2 element from class "online_rep..."  */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* style the h2 element from class "social-med..."  */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* style the footer element  */
 .footer {
     padding: 30px;
     clear: both;
@@ -212,6 +229,7 @@ p {
     text-align: center;
 }
 
+/* style the h2 element of the footer element  */
 .footer h2 {
     font-size: 20px;
 }
