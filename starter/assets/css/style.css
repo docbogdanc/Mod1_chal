@@ -24,7 +24,7 @@ body {
     font-size: 48px;
 }
 
-/* the span with "ceo" class from h1 element (from "header" class) gain new color */
+/* the span with "ceo" gain new color */
 .seo {
     color: #d9dcd6;
 }
