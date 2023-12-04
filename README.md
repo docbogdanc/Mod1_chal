@@ -2,13 +2,13 @@
 
 ## Description 
 
-This is the module 1 challenge. It should encompass all the new skills gained in the first week and all the further reading and learning as part of continuous improvement.
+This is the module 1 challenge. It should encompass all the new skills gained in the first week and all the further reading and learning as part of my continuous improvement.
 
 ## Table of Contents 
 
 ## Installation
 
-it was deployed using GitHub and can be access without installation in any browser.
+This project was edited with VScode, deployed using GitHub and can be accessed without installation in any browser.
 
 ## Usage 
 
