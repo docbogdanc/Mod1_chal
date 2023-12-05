@@ -16,7 +16,7 @@ It is very easy to read, as it follow the Semantic elements guidelines and has i
 
 ## Credits
 
-Everything was possible due to hard work , excellent teachers and a very friendly community. The material provided by bootcamp is extremely useful
+Everything was possible due to hard work , excellent teachers and a very friendly community. The material provided by bootcamp is extremely useful, especially the code sourse for this html and css files
 
 ## License
 
